@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.nirusudh.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
@@ -7,6 +8,7 @@
          BARCOLA167 - AMP SITEMAP
          Target: https://ampbarcola167.pages.dev/
          Canonical: https://barcola167.site/
+         Multi-Language: id, en, ms
          ============================================================================= -->
 
     <!-- === AMP HOMEPAGE === -->
@@ -17,9 +19,14 @@
         <priority>0.9</priority>
         <xhtml:link rel="canonical" href="https://barcola167.site/"/>
         <xhtml:link rel="alternate" hreflang="id-id" href="https://ampbarcola167.pages.dev/"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://ampbarcola167.pages.dev/"/>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://ampbarcola167.pages.dev/en/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ampbarcola167.pages.dev/en/"/>
+        <xhtml:link rel="alternate" hreflang="ms-my" href="https://ampbarcola167.pages.dev/ms/"/>
+        <xhtml:link rel="alternate" hreflang="ms" href="https://ampbarcola167.pages.dev/ms/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://ampbarcola167.pages.dev/"/>
         <image:image>
-            <image:loc>https://barcola167.site/barcola-banner.webp</image:loc>
+            <image:loc>https://ampbarcola167.pages.dev/barcola-banner.webp</image:loc>
             <image:title>BARCOLA167 AMP - Portal Digital Modern Indonesia</image:title>
             <image:caption>Versi AMP BARCOLA167 untuk akses cepat portal digital modern Indonesia.</image:caption>
         </image:image>
