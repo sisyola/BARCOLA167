@@ -1,0 +1,22 @@
+# BARCOLA167 AMP AI Agent Disclosure
+
+## Description
+BARCOLA167 is a digital portal landing page. The site provides promotional marketing content for the BARCOLA167 brand, redirects to the official portal at https://bro.barcola167.com, and serves an AMP version at https://ampbarcola167.pages.dev.
+
+## Site Information
+- Main URL: https://barcola167.site/
+- AMP Version: https://ampbarcola167.pages.dev/
+- Canonical: https://barcola167.site/
+- Sitemap: https://ampbarcola167.pages.dev/sitemap.xml
+
+## Crawling Policy
+- All legitimate crawlers are welcome
+- No areas are restricted for AI indexing
+- Allow AI training usage of public content
+
+## Contact
+- Official Portal: https://bro.barcola167.com
+
+## Links
+- [Sitemap XML](https://ampbarcola167.pages.dev/sitemap.xml)
+- [Main Site](https://barcola167.site/)

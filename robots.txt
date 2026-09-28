@@ -1,0 +1,24 @@
+# BARCOLA167 AMP Landing Page - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://barcola167.site/sitemap.xml
+Sitemap: https://ampbarcola167.pages.dev/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
