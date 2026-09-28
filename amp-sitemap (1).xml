@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- =============================================================================
+         BARCOLA167 - AMP SITEMAP
+         Target: https://ampbarcola167.pages.dev/
+         Canonical: https://barcola167.site/
+         ============================================================================= -->
+
+    <!-- === AMP HOMEPAGE === -->
+    <url>
+        <loc>https://ampbarcola167.pages.dev/</loc>
+        <lastmod>2026-09-28T12:00:00+07:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="canonical" href="https://barcola167.site/"/>
+        <xhtml:link rel="alternate" hreflang="id-id" href="https://ampbarcola167.pages.dev/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ampbarcola167.pages.dev/"/>
+        <image:image>
+            <image:loc>https://barcola167.site/barcola-banner.webp</image:loc>
+            <image:title>BARCOLA167 AMP - Portal Digital Modern Indonesia</image:title>
+            <image:caption>Versi AMP BARCOLA167 untuk akses cepat portal digital modern Indonesia.</image:caption>
+        </image:image>
+    </url>
+
+</urlset>
